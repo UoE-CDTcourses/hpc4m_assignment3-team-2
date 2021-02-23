@@ -1,0 +1,100 @@
+MPI started with 2 tasks
+
+10000 messages done in 3.096715 seconds.
+Short: 
+1200000 10000 3.096715e+00 3229.23 1.914562e+02
+MPI started with 2 tasks
+
+20000 messages done in 6.191477 seconds.
+Short: 
+1200000 20000 6.191477e+00 3230.25 9.575831e+01
+MPI started with 2 tasks
+
+30000 messages done in 9.287227 seconds.
+Short: 
+1200000 30000 9.287227e+00 3230.24 6.383879e+01
+MPI started with 2 tasks
+
+40000 messages done in 12.381361 seconds.
+Short: 
+1200000 40000 1.238136e+01 3230.66 4.788532e+01
+MPI started with 2 tasks
+
+50000 messages done in 15.478585 seconds.
+Short: 
+1200000 50000 1.547858e+01 3230.27 3.830359e+01
+MPI started with 2 tasks
+
+60000 messages done in 18.573187 seconds.
+Short: 
+1200000 60000 1.857319e+01 3230.46 3.192158e+01
+MPI started with 2 tasks
+
+70000 messages done in 21.670822 seconds.
+Short: 
+1200000 70000 2.167082e+01 3230.15 2.735869e+01
+MPI started with 2 tasks
+
+80000 messages done in 24.763969 seconds.
+Short: 
+1200000 80000 2.476397e+01 3230.50 2.394145e+01
+MPI started with 2 tasks
+
+90000 messages done in 27.856137 seconds.
+Short: 
+1200000 90000 2.785614e+01 3230.89 2.128383e+01
+MPI started with 2 tasks
+
+100000 messages done in 30.954973 seconds.
+Short: 
+1200000 100000 3.095497e+01 3230.50 1.915315e+01
+MPI started with 2 tasks
+
+110000 messages done in 34.047616 seconds.
+Short: 
+1200000 110000 3.404762e+01 3230.77 1.741342e+01
+MPI started with 2 tasks
+
+120000 messages done in 37.143659 seconds.
+Short: 
+1200000 120000 3.714366e+01 3230.70 1.596195e+01
+MPI started with 2 tasks
+
+130000 messages done in 40.239824 seconds.
+Short: 
+1200000 130000 4.023982e+01 3230.63 1.473380e+01
+MPI started with 2 tasks
+
+140000 messages done in 43.329153 seconds.
+Short: 
+1200000 140000 4.332915e+01 3231.08 1.368329e+01
+MPI started with 2 tasks
+
+150000 messages done in 46.421218 seconds.
+Short: 
+1200000 150000 4.642122e+01 3231.28 1.277186e+01
+MPI started with 2 tasks
+
+160000 messages done in 49.529800 seconds.
+Short: 
+1200000 160000 4.952980e+01 3230.38 1.197028e+01
+MPI started with 2 tasks
+
+170000 messages done in 52.609698 seconds.
+Short: 
+1200000 170000 5.260970e+01 3231.34 1.126951e+01
+MPI started with 2 tasks
+
+180000 messages done in 55.717218 seconds.
+Short: 
+1200000 180000 5.571722e+01 3230.60 1.064097e+01
+MPI started with 2 tasks
+
+190000 messages done in 58.819134 seconds.
+Short: 
+1200000 190000 5.881913e+01 3230.24 1.007980e+01
+MPI started with 2 tasks
+
+200000 messages done in 61.906727 seconds.
+Short: 
+1200000 200000 6.190673e+01 3230.67 9.577075e+00
