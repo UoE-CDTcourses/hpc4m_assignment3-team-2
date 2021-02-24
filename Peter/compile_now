@@ -1,0 +1,20 @@
+
+#!/bin/bash
+
+
+## Load the required modules
+module load mpt
+module load intel-compilers-19
+
+## compile
+
+
+## compile with MPI:
+mpicxx 2DWave_Parallel.cpp  -o horzexe
+mpicxx 2D_Wave_Parallel_Vert.cpp -o vertexe
+mpicxx square_decomp.cpp -o squareexe
+## remove object files if there is any!:
+# rm *.mod
+# rm *.o
+
+
